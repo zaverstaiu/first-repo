@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+.vscode/
+*.pdf
+source/**
+.gitignore
+*outlines.css
